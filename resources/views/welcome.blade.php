@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel is good/Good very good
+                    Mushroom is good/Good very good
                 </div>
 
                 <div class="links">
