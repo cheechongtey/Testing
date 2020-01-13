@@ -81,17 +81,17 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    So i pour a champagne for myself.Welcome To Laravel
+                    Laravel is good
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Worry</a>
-                    <a href="https://laracasts.com">Bla bla bla</a>
+                    <a href="https://laravel.com/docs">Docs</a>
+                    <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
+                    <a href="https://blog.laravel.com">bla bla bla</a>
                     <a href="https://nova.laravel.com">Nova</a>
                     <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://github.com/laravel/laravel">hahhaha</a>
                 </div>
             </div>
         </div>
