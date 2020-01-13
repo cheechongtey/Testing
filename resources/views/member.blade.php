@@ -81,17 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel is good
+                    Member
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Hello boi</a>
-                    <a href="https://laracasts.com">Bye Boi</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">bla bla bla</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">hahhaha</a>
+                    <a href="https://laravel.com/docs">Click here to view member</a>
                 </div>
             </div>
         </div>

@@ -18,3 +18,12 @@ Route::get('/', function () {
 Route::get('/bibi', function () {
     return view('bibi');
 });
+
+
+Route::get('/product', function () {
+    return view('product');
+});
+
+Route::get('/member', function () {
+    return view('member');
+});
