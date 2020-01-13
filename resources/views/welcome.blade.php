@@ -86,7 +86,7 @@
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Hello boi</a>
-                    <a href="https://laracasts.com">Bye Boi</a>
+                    <a href="https://laracasts.com">Bye Girl</a>
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://blog.laravel.com">bla bla bla</a>
                     <a href="https://nova.laravel.com">Nova</a>
